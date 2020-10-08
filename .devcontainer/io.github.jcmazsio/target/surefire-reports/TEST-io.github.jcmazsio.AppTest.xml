@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="io.github.jcmazsio.AppTest" time="0.034" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="io.github.jcmazsio.AppTest" time="0.039" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
     <property name="java.specification.version" value="11"/>
@@ -14,7 +14,7 @@
     <property name="os.name" value="Linux"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/usr/local/openjdk-11/lib"/>
-    <property name="sun.java.command" value="/workspaces/dev-container-java/.devcontainer/io.github.jcmazsio/target/surefire/surefirebooter9239847347850470895.jar /workspaces/dev-container-java/.devcontainer/io.github.jcmazsio/target/surefire 2020-10-07T19-38-15_356-jvmRun1 surefire9366893522561180204tmp surefire_014293353728491825225tmp"/>
+    <property name="sun.java.command" value="/workspaces/dev-container-java/.devcontainer/io.github.jcmazsio/target/surefire/surefirebooter10162093328330837915.jar /workspaces/dev-container-java/.devcontainer/io.github.jcmazsio/target/surefire 2020-10-07T21-17-24_126-jvmRun1 surefire1493114739652059142tmp surefire_015915136084418775460tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/workspaces/dev-container-java/.devcontainer/io.github.jcmazsio/target/test-classes:/workspaces/dev-container-java/.devcontainer/io.github.jcmazsio/target/classes:/home/vscode/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/vscode/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/workspaces/dev-container-java/.devcontainer/io.github.jcmazsio/target/surefire/surefirebooter9239847347850470895.jar"/>
+    <property name="surefire.real.class.path" value="/workspaces/dev-container-java/.devcontainer/io.github.jcmazsio/target/surefire/surefirebooter10162093328330837915.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.8+10"/>
     <property name="user.name" value="vscode"/>
@@ -56,5 +56,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="io.github.jcmazsio.AppTest" time="0.001"/>
+  <testcase name="shouldAnswerWithTrue" classname="io.github.jcmazsio.AppTest" time="0.002"/>
 </testsuite>
